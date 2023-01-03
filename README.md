@@ -1,1 +1,1 @@
-# alura-armazenando-na-web
+# Projeto: mochila de viagem
